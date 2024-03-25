@@ -1,0 +1,13 @@
+.logo{
+    width: 80px !important;
+}
+.img_1{
+    width: 150px !important;
+}
+.sofa img{
+    aspect-ratio: 4/3;
+}
+
+.str_img{
+    aspect-ratio: 6/9;
+}
